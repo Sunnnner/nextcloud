@@ -65,15 +65,15 @@ $CONFIG = array (
   'secret' => '04Wy9htCvw6wQxsHEHpF5Q3m9gfdiSbw2IGK57CLFWiSgtvI',
   'trusted_domains' =>
   array (
-    0 => 'pan.kws.knd.com.cn',
+    0 => 'pan.com',
     1 => '47.243.249.3:443',
   ),
   'overwriteprotocol' => 'https',
-  'overwritehost' => 'pan.kws.knd.com.cn',
+  'overwritehost' => 'pan.com',
   'datadirectory' => '/var/www/html/data',
   'dbtype' => 'pgsql',
   'version' => '23.0.11.1',
-  'overwrite.cli.url' => 'https://pan.kws.knd.com.cn',
+  'overwrite.cli.url' => 'https://pan.com',
   'dbname' => 'nextcloud',
   'dbhost' => 'db',
   'dbport' => '',
